@@ -19,5 +19,5 @@ def graphSnowfall(t):
     plt.show()
 
 
-graphSnowfall("snowfall_data.txt")
-
+result = graphSnowfall("snowfall_data.txt")
+print(result)
