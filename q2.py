@@ -18,6 +18,5 @@ def graphSnowfall(t):
     plt.xticks(ranges[:-1])  # Set x-axis ticks to match the range boundaries
     plt.show()
 
-
-result = graphSnowfall("snowfall_data.txt")
-print(result)
+# Call the function to display the graph
+graphSnowfall("snowfall_data.txt")
