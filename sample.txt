@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains multiple lines with words.
+Each line has some repeated words, and some unique ones.
+The goal is to count the occurrences of each word in the file.
+Let's see how the wordCount function handles this text file.
